@@ -43,7 +43,7 @@
   <br/><br/>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=15973081&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=15973081&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
   </a>
 </div>
 
