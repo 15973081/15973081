@@ -33,14 +33,8 @@
 </div>
 
 <!-- Streak + Trophies -->
-<div align="center">
-  <br/>
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=15973081"
-    alt="GitHub Streak"
-  />
-  <br/>
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=15973081)
+
 
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
