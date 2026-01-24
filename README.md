@@ -36,8 +36,8 @@
 <div align="center">
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=15973081&theme=tokyonight&hide_border=true&border_radius=10" />
-    <img src="https://streak-stats.demolab.com/?user=15973081&theme=github_light&hide_border=true&border_radius=10" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=15973081&theme=tokyonight&hide_border=true&border_radius=10" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=15973081&theme=github_light&hide_border=true&border_radius=10" alt="GitHub Streak" />
   </picture>
 
   <br/><br/>
