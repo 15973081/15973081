@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C896&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+15973081+%F0%9F%91%8B;Full-Stack+Developer+%7C+Tokyo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C896&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+MaYunnan+%F0%9F%91%8B;Backend+Developer+%7C+China" alt="Typing SVG" />
 </div>
 
-<h3 align="center">基于中国杭州的开发者 | 代码、咖啡与深夜调试 ☕</h3>
+<h3 align="center">杭州｜写Bug修Bug的Backend开发者 ☕</h3>
 
 <p align="center">
   <em>
-    「代码要像东京夜景一样——干净、明亮、有层次。」<br>
+    「代码不是艺术，是武器。」<br>
     Currently building with TypeScript • React • Next.js • Node.js • Python
   </em>
 </p>
@@ -50,9 +50,13 @@
 <br/>
 
 <!-- 技能图标 -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,django,postgres,redis,docker,git,github,vscode,figma,tailwind,prisma&perline=9&theme=dark" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,java,go,nodejs,express,python,fastapi,django,prisma&perline=9&theme=dark" alt="Languages & Frameworks" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,git,github,vscode,figma,tailwind&perline=9&theme=dark" alt="Tools & Infra" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=android,react,nextjs,jetbrain&perline=9&theme=dark" alt="Others" />
+</p>
 
 <br/>
 
