@@ -33,7 +33,7 @@
 </div>
 
 <!-- Streak + Trophies -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=15973081)
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=15973081" alt="GitHub Streak" /></a>
 
 
 
