@@ -33,22 +33,24 @@
 </div>
 
 <!-- Streak + Trophies -->
-<a href="https://git.io/streak-stats">
-  <img
-    src="https://github-streak.person98.com?user=15973081&theme=tokyonight&hide_border=true&border_radius=10"
-    alt="GitHub Streak"
-  />
-</a>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://github-streak.person98.com?user=15973081&theme=tokyonight&hide_border=true&border_radius=10"
+      alt="GitHub Streak"
+    />
+  </a>
 
-
-
+  <br/><br/>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=15973081&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+    <img
+      src="https://github-profile-trophy-fork-two.vercel.app/?username=15973081&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15"
+      alt="Trophies"
+    />
   </a>
 </div>
 
-<br/>
 
 <!-- 技能图标 -->
 <p align="center">
