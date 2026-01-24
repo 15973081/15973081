@@ -35,12 +35,13 @@
 <!-- Streak + Trophies -->
 <div align="center">
   <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=15973081&theme=tokyonight&hide_border=true&border_radius=10" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=15973081&theme=github_light&hide_border=true&border_radius=10" alt="GitHub Streak" />
-  </picture>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=15973081&hide_border=true&border_radius=10"
+    alt="GitHub Streak"
+  />
+  <br/>
+</div>
 
-  <br/><br/>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy-fork-two.vercel.app/?username=15973081&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
