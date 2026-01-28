@@ -39,11 +39,11 @@
 <br><br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,java,go,nodejs,express,python,fastapi,django&perline=8" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=ts,java,go,nodejs,python,fastapi,django,rust&perline=8" alt="Languages & Frameworks" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,git,github,vscode,figma,tailwind&perline=8" alt="Tools & Infra" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,git,github,vscode&perline=8" alt="Tools & Infra" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=android,react,nextjs,jetbrains&perline=8" alt="Others" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,react,nextjs&perline=8" alt="Others" />
 </div>
 
 <br><br>
