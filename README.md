@@ -43,7 +43,7 @@
   <br><br>
   <img src="https://skillicons.dev/icons?i=postgres,redis,docker,git,github,vscode,figma,tailwind&perline=8" alt="Tools & Infra" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=android,react,nextjs,jetbrain&perline=8" alt="Others" />
+  <img src="https://skillicons.dev/icons?i=android,react,nextjs,jetbrains&perline=8" alt="Others" />
 </div>
 
 <br><br>
