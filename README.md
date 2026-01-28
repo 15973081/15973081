@@ -31,15 +31,6 @@
 <br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=15973081&layout=donut&theme=tokyonight&hide_border=true&langs_count=10" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=15973081&layout=donut&theme=default&hide_border=true&langs_count=10" alt="Top Languages" />
-  </picture>
-</div>
-
-<br><br>
-
-<div align="center">
   <img src="https://github-streak.person98.com?user=15973081&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-profile-trophy-fork-two.vercel.app/?username=15973081&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
@@ -48,7 +39,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,java,go,nodejs,express,python,fastapi,django,prisma&perline=8" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=ts,java,go,nodejs,express,python,fastapi,django&perline=8" alt="Languages & Frameworks" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=postgres,redis,docker,git,github,vscode,figma,tailwind&perline=8" alt="Tools & Infra" />
   <br><br>
@@ -58,7 +49,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Tokyo-%23FF4500?style=for-the-badge&logo=mapbox&logoColor=white" alt="Tokyo" />
+  <img src="https://img.shields.io/badge/China-%23FF4500?style=for-the-badge&logo=mapbox&logoColor=white" alt="Tokyo" />
 </div>
 
 <br>
